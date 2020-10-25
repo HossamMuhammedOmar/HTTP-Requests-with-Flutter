@@ -1,4 +1,4 @@
-# http_request
+# HTTP Requests with Flutter
 
 A new Flutter project.
 
